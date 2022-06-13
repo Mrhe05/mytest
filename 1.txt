@@ -2,4 +2,4 @@ one two three
 git checkout -- <文件名字>
 git restore <文件名字>
 这2个git 指令都可以起到还原一个未在暂存区的文件
-
+ahah
